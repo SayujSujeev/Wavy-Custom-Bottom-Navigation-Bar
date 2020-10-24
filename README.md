@@ -1,6 +1,6 @@
 # Wavy Custom Bottom Navigation Bar
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://www.youtube.com/watch?v=M9K43Fp52F0)
 
 
 Wavy custom bottom navigation bar using flutter.
