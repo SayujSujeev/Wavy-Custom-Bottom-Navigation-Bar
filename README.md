@@ -1,16 +1,15 @@
-# wavy_bottom_nav_bar
+# Wavy Custom Bottom Navigation Bar
 
-A new Flutter application.
+## [Watch it on YouTube]()
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Wavy custom bottom navigation bar using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### :heart: Found this project useful?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Drink Order App UI
+
+![App UI](/bottomnav.png)
+
