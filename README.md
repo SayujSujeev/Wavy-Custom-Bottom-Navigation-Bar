@@ -9,7 +9,9 @@ Wavy custom bottom navigation bar using flutter.
 
 If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
-### Drink Order App UI
+<a href="https://www.buymeacoffee.com/iamsayuj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
+
+### Wavy Custom Bottom Navigation Bar UI
 
 ![App UI](/bottomnav.png)
 
